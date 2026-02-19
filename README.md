@@ -60,4 +60,32 @@ Matplotlib, Seaborn
 
 The model identifies tenure, monthly charges, and contract type as the top churn drivers. Customers with month-to-month contracts and high monthly charges are more likely to churn. The system enables proactive retention strategies such as targeted discounts and loyalty offers.
 
-Joblib 
+**Core Libraries**
+
+pandas – Data loading, cleaning, and preprocessing
+
+numpy – Numerical computations and array operations
+
+scikit-learn – Model training, evaluation, cross-validation, and hyperparameter tuning
+
+xgboost – Gradient boosting classifier for improved predictive performance
+
+matplotlib – Data visualization and performance plotting
+
+seaborn – Advanced statistical data visualization
+
+joblib – Model serialization and saving trained model 
+
+**Machine Learning Utilities Used**
+
+train_test_split – Dataset splitting
+
+GridSearchCV – Hyperparameter optimization
+
+cross_val_score – Cross-validation
+
+classification_report – Precision, Recall, F1-score
+
+roc_auc_score – Model evaluation metric
+
+confusion_matrix – Performance visualization
