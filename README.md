@@ -57,6 +57,7 @@ XGBoost
 Matplotlib, Seaborn
 
 **BUSINESS INTERPRETATION**
+
 The model identifies tenure, monthly charges, and contract type as the top churn drivers. Customers with month-to-month contracts and high monthly charges are more likely to churn. The system enables proactive retention strategies such as targeted discounts and loyalty offers.
 
 Joblib 
